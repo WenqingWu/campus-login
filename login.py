@@ -39,8 +39,7 @@ def logout():
 
 if __name__ == '__main__':
 	url = 'http://210.77.16.21/eportal/InterFace.do?method=login'
-	username = '201728013229038'
-	#username = '吴\201728013229038'
+	username = 'xxxxxxxxxxxxxxx'
 	passwd = 'xxxxxx'
 	login(url, username, passwd)
 
